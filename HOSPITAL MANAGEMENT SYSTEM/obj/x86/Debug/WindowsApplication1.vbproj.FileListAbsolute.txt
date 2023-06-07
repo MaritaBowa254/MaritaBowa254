@@ -1,0 +1,8 @@
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\HOSPITAL MANGEMENT SYSYTEM.exe
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\HOSPITAL MANGEMENT SYSYTEM.pdb
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\HOSPITAL MANGEMENT SYSYTEM.xml
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\HOSPITAL MANGEMENT SYSYTEM.exe
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\HOSPITAL MANGEMENT SYSYTEM.xml
+C:\Users\BOWA\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\HOSPITAL MANGEMENT SYSYTEM.pdb
